@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourname/yiyin-music/stargazers"><img src="https://img.shields.io/github/stars/yourname/yiyin-music?style=social"></a>
-  <a href="https://github.com/yourname/yiyin-music/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yourname/yiyin-music"></a>
+  <img src="https://img.shields.io/badge/Wails-2.9.3-blue?style=flat-square" alt="Wails version">
+  <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square" alt="Project version">
 </p>
 
 ---
