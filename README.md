@@ -4,12 +4,14 @@
   <img src="https://img.chaoahyl.com/yiyin/play.png" width="800">
 </p>
 
-
 <p align="center">
   <b>让音乐回归本地，而不是被推荐算法操控。</b><br>
   无广告 · 无推荐 · 无干扰 · 纯粹听歌体验
 </p>
 
+<p align="center">
+  ⭐ 如果这个项目对你有帮助，欢迎 Star 支持！
+</p>
 
 ---
 
@@ -22,6 +24,15 @@
 - 🔒 完全离线运行，保护隐私  
 - 🚫 无广告、无推荐、无评论系统  
 - 🧘 沉浸式播放体验，回归音乐本质  
+
+---
+
+## 🧱 技术栈
+
+- Wails（Go + 原生 WebView）  
+- Vue 3 + Composition API  
+- TypeScript  
+- Vite  
 
 ---
 
@@ -44,7 +55,6 @@
   <img src="https://img.chaoahyl.com/yiyin/play.png" width="700">
 </p>
 
-
 ---
 
 ### 🎼 音乐库（Music Library）
@@ -56,7 +66,6 @@
   <b>暗黑模式</b><br><br>
   <img src="https://img.chaoahyl.com/yiyin/music_dark.png" width="600">
 </p>
-
 
 ---
 
@@ -70,9 +79,7 @@
   <img src="https://img.chaoahyl.com/yiyin/art_dark.png" width="600">
 </p>
 
-
 ---
-
 
 ### ⭐ 收藏页面（Favorites）
 
@@ -83,7 +90,6 @@
   <b>暗黑模式</b><br><br>
   <img src="https://img.chaoahyl.com/yiyin/favorite_dark.png" width="600">
 </p>
-
 
 ---
 
@@ -97,18 +103,62 @@
   <img src="https://img.chaoahyl.com/yiyin/set_dark.png" width="600">
 </p>
 
-
 ---
 
 ## 🚀 核心功能
 
 - 📂 **本地音乐扫描**：快速导入并构建你的私人音乐库  
 - 🏷 **标签解析**：完整读取 ID3 / FLAC / APE 元数据  
-- 🎤 **沉浸式歌词**：支持lrc歌词与标签内嵌歌词  
+- 🎤 **沉浸式歌词**：支持 lrc 歌词与标签内嵌歌词  
 - 🎼 **歌手 / 专辑视图**：自动分类，清晰管理音乐  
 - ⭐ **收藏与歌单**：自由管理你的音乐偏好  
 - 📱 **局域网远程控制**：手机扫码控制播放  
 - 🌗 **多主题模式**：明亮 / 暗黑 主题切换  
+
+---
+
+## 📱 远程控制使用指南
+
+1. 确保播放器与手机 / 其他设备处于**同一局域网**  
+2. 打开播放器，进入「远程控制」页面  
+3. 使用手机扫描页面中的二维码  
+4. 连接成功后，即可远程控制播放器：
+
+- ▶ 播放 / 暂停  
+- ⏮ 上一首  
+- ⏭ 下一首  
+
+👉 无需注册账号，完全本地运行  
+
+---
+
+## 🎵 歌词说明
+
+- 推荐使用 **LDDC / MusicTag** 等工具，将歌词写入音频文件标签  
+- 支持 ID3 / FLAC / APE 内嵌歌词  
+- 播放器会**优先读取标签中的歌词**，无需额外 `.lrc` 文件  
+
+---
+
+## 🙏 致谢
+
+- 歌词显示组件库感谢：  
+  https://github.com/amll-dev/applemusic-like-lyrics  
+  本项目的歌词显示功能直接使用该组件库实现  
+
+- 歌词工具推荐：  
+  https://github.com/chenmozhijin/LDDC  
+  可用于获取与生成逐字歌词  
+
+---
+
+## ⚖️ 免责声明
+
+- 本软件完全免费，仅供本地音乐播放使用  
+- 不提供任何在线音乐资源，所有音乐文件需用户自行获取  
+- 用户需确保音乐文件的使用符合相关法律法规  
+- 作者不对因使用本软件产生的版权或法律问题承担责任  
+- 目前项目由作者个人维护，可能无法及时处理 Bug 或新增功能，敬请理解  
 
 ---
 
@@ -121,14 +171,9 @@
 
 ---
 
-## 🧱 技术栈
-
-- Wails（Go + 原生 WebView）  
-- Vue 3 + Composition API  
-- TypeScript  
-- Vite  
-
----
+<p align="center">
+  ⭐ 如果你喜欢依音，欢迎点个 Star 支持一下！
+</p>
 
 <p align="center">
   <b>依音 · 让听歌这件事，重新变简单。</b>
