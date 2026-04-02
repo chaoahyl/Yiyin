@@ -1,9 +1,13 @@
 <p align="center">
-  🌐 中文 | <a href="./README_EN.md">English</a>
+  <img src="https://img.chaoahyl.com/yiyin/appicon.png" width="100" alt="Yiyin Music Icon">
 </p>
 
 <p align="center">
-  <img src="https://img.chaoahyl.com/yiyin/play.png" width="800">
+  <span style="font-size: 24px; margin-left: 10px;">依音（Yiyin） 本地音乐播放器</span>
+</p>
+
+<p align="center">
+  🌐 中文 | <a href="./README_EN.md">English</a>
 </p>
 
 <p align="center">
