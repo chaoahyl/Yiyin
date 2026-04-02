@@ -146,10 +146,6 @@
   https://github.com/amll-dev/applemusic-like-lyrics  
   本项目的歌词显示功能直接使用该组件库实现  
 
-- 歌词工具推荐：  
-  https://github.com/chenmozhijin/LDDC  
-  可用于获取与生成逐字歌词  
-
 ---
 
 ## ⚖️ 免责声明
