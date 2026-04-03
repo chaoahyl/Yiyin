@@ -16,6 +16,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/chaoahyl/Yiyin/releases">
+    <img src="https://img.shields.io/badge/DOWNLOAD-Yiyin_Player-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Wails-2.9.3-blue?style=flat-square" alt="Wails version">
   <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square" alt="Project version">
 </p>
